@@ -1,3 +1,14 @@
+# React-Portfolio
+
+portfolio built using React and CSS
+
+To Run an application:
+<ul>
+  <li>download the application</li>
+  <li>npm install on the terminal</li>
+  <li>npm run start</li>
+</u1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
