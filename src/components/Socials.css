@@ -1,0 +1,19 @@
+.socials{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+.socials li{
+    list-style: none;
+    flex-direction: row;
+    margin: 5px;   
+    
+}
+.socials li img{
+    align-items: center;
+}
+@media screen and (max-width: 820px) {
+    .socialImage{
+        width: 20;
+    }
+}

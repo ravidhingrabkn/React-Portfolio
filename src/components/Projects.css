@@ -1,0 +1,23 @@
+.projects{
+    display: flex;
+    margin: 0 10% 2% 10%;
+    background-color: rgb(94, 213, 252);
+    color: white;
+    padding: 15px;
+    border-radius: 15px;    
+    align-items: center;    
+}
+.projects p{
+    text-align: justify;
+}
+@media screen and (max-width: 820px) {
+    .projects{
+       
+        flex-flow: row wrap;
+    }
+    .projects .projectImage{
+        align-items: center;
+        margin: auto;   
+        width: 100%;           
+    }     
+}

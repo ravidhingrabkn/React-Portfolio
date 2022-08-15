@@ -1,0 +1,19 @@
+.mainbody{
+    height: 80vh;
+    background-color: black;    
+}
+h2{
+    text-align: center;
+}
+.container{
+    position: relative;
+}
+
+.skillSection h2{
+    padding: 10px 0 20px 0;   
+}
+.projectSection h2{
+    padding: 10px 0 20px 0;    
+}
+
+

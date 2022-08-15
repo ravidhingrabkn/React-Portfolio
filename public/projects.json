@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Talent Stacker",
+        "url": "http:\/\/krajcik.com\/accusantium-neque-blanditiis-occaecati-velit-quod-quasi",
+        "slug": "nobis-sint-porro-et",
+        "image": "/TalentStacker.png",
+        "content": "I have made this project on Salesforce. I have used the configuration tools of Salesforce to successfully build the project. I have built 8 flows to automate some of the Business Processes. there are 4 custom objects, and 4 standard objects, and all of them were connected with the relationships.",
+        "type_id": 1,
+        "user_id": 2,
+        "created_at": "2022-08-12T02:20:23.000000Z",
+        "updated_at": "2022-08-15T04:36:23.000000Z",
+        "user": {
+            "id": 2,
+            "first": "Sandy",
+            "last": "Gleichner",
+            "email": "daniella01@example.org",
+            "email_verified_at": "2022-08-12T02:20:23.000000Z",
+            "created_at": "2022-08-12T02:20:23.000000Z",
+            "updated_at": "2022-08-12T02:20:23.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Hic esse neque nobis incidunt cumque ratione saepe.",
+            "created_at": "2022-08-12T02:20:23.000000Z",
+            "updated_at": "2022-08-12T02:20:23.000000Z"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Trivia Api Project",
+        "url": "https:\/\/the-trivia-api.com\/",
+        "slug": "ipsam-quod-voluptas-odio",
+        "image": "/Trivia.png",
+        "content": "This application was made using the React. The button reveals the answer of the random question fetched using axios.",
+        "type_id": 3,
+        "user_id": 1,
+        "created_at": "2022-08-12T02:20:23.000000Z",
+        "updated_at": "2022-08-15T04:39:04.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Jermaine",
+            "last": "Schiller",
+            "email": "nsimonis@example.net",
+            "email_verified_at": "2022-08-12T02:20:23.000000Z",
+            "created_at": "2022-08-12T02:20:23.000000Z",
+            "updated_at": "2022-08-12T02:20:23.000000Z"
+        },
+        "type": {
+            "id": 3,
+            "title": "Et omnis omnis eligendi error laborum eos et.",
+            "created_at": "2022-08-12T02:20:23.000000Z",
+            "updated_at": "2022-08-12T02:20:23.000000Z"
+        }
+    },
+    {
+        "id": 3,
+        "title": "NewComer",
+        "url": "http:\/\/ixd5205.lovestoblog.com\/",
+        "slug": "exercitationem-nihil-cupiditate-iure-et-ut-consequatur-architecto",
+        "image": "/NewComer.png",
+        "content": "The application was built using the vanilla HTML, JS, and CSS. The website is bring hosted using infinityfree. a free web hosting application tools.",
+        "type_id": 3,
+        "user_id": 1,
+        "created_at": "2022-08-12T02:20:23.000000Z",
+        "updated_at": "2022-08-15T04:41:56.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Jermaine",
+            "last": "Schiller",
+            "email": "nsimonis@example.net",
+            "email_verified_at": "2022-08-12T02:20:23.000000Z",
+            "created_at": "2022-08-12T02:20:23.000000Z",
+            "updated_at": "2022-08-12T02:20:23.000000Z"
+        },
+        "type": {
+            "id": 3,
+            "title": "Et omnis omnis eligendi error laborum eos et.",
+            "created_at": "2022-08-12T02:20:23.000000Z",
+            "updated_at": "2022-08-12T02:20:23.000000Z"
+        }
+    }
+]
